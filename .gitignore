@@ -1,0 +1,16 @@
+﻿# Node packages
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# Build outputs
+dist/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.DS_Store
+npm-debug.log*
+yarn-error.log*
